@@ -6,4 +6,5 @@ The system can accommodate up to eight participants, ideal for intense four-vers
 
 ![SW](https://github.com/louisguan/Game-Buzzers/assets/11693540/7896b904-c6eb-4ba1-ad23-d4d8b6d50fa2)
 
-![20230908_181007](https://github.com/louisguan/Game-Buzzers/assets/11693540/ee149aad-6ee5-49b5-b82d-0c4e16c14c3d)
+![20230908_181007](https://github.com/louisguan/Game-Buzzers/assets/11693540/0f75b9a4-d401-4e32-8fd9-a12b20024213)
+
